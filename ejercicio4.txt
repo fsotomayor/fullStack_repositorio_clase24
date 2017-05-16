@@ -1,0 +1,6 @@
+Producto1, 10
+Producto2, 20
+Producto3, 4
+Producto8, 3
+Producto9, 3
+Producto10, 23
